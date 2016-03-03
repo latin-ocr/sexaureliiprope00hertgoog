@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sexaureliiprope00hertgoog_0018.png"; bbox 0 0 715 1238; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 216 417 451 440">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 216 417 451 440">
+     <span class='ocr_line' id='line_1_1' title="bbox 216 417 451 440; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 216 417 451 440; x_wconf 68' lang='lat' dir='ltr'><strong>commentari}</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 88 514 574 552">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 88 514 574 552">
+     <span class='ocr_line' id='line_1_2' title="bbox 88 514 574 552; baseline -0.004 -5"><span class='ocrx_word' id='word_1_2' title='bbox 88 517 147 547; x_wconf 82' lang='lat' dir='ltr'><strong>Sex.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 173 515 263 545; x_wconf 77' lang='lat' dir='ltr'><strong>Aurem</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 291 515 409 552; x_wconf 71' lang='lat' dir='ltr'>Propertii</span> <span class='ocrx_word' id='word_1_5' title='bbox 438 514 574 551; x_wconf 67' lang='lat' dir='ltr'><strong>megum-um</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 187 593 478 615">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 187 593 478 615">
+     <span class='ocr_line' id='line_1_3' title="bbox 187 593 478 615; baseline 0 -5"><span class='ocrx_word' id='word_1_6' title='bbox 187 593 299 610; x_wconf 75' lang='lat' dir='ltr'>Libros</span> <span class='ocrx_word' id='word_1_7' title='bbox 321 598 332 615; x_wconf 83' lang='lat' dir='ltr'><strong>q</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 343 595 478 611; x_wconf 66' lang='lat' dir='ltr'><strong>nnnnnnnn</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 71 1099 104 1117">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 71 1099 104 1117">
+     <span class='ocr_line' id='line_1_4' title="bbox 71 1099 104 1117; baseline 0.03 -1"><span class='ocrx_word' id='word_1_9' title='bbox 71 1099 104 1117; x_wconf 79' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
